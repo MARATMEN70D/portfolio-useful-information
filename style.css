@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+header{
+    background-image: linear-gradient(#86B32D,#992667);
+    text-align: center;
+    margin: 30px;
+    padding:10px
+}
+.link-header{
+    font-size: 30px;
+ background-color:#86B32D #992667  
+}
+footer{
+    background-image: linear-gradient(black);
+}
+.h1{
+background-color:#992667;
+text-shadow:#86B32D #992667  ;
+}
+p{
+    background-color:#86B32D ;
+}
